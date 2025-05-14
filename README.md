@@ -1,4 +1,5 @@
 Name : Amirtha Varshini V
+
 Register number: 212224040021
 
 #  Mean and variance of a discrete  distribution
